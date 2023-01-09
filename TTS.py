@@ -1,6 +1,5 @@
 from PyQt6.QtWidgets import QMainWindow, QApplication
-from PyQt6 import QtGui, QtWidgets, uic
-from tkinter import *
+from PyQt6 import QtGui, uic
 import sys
 import re
 import nltk
