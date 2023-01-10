@@ -1,5 +1,5 @@
 # Spell-Checker
-Spell Checker is a python written GUI that helps you to check spelling errors in your text.
+Spell Checker is a python written GUI that helps you check spelling errors in your text.
 
 # How To Use
 This code is written in Python. For running this code you must install the libraries in requirments.txt. in order to do that you should run the following command on cmd(or similar commands on linux terminal):
