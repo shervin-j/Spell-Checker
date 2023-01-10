@@ -11,10 +11,11 @@ After installing requirements you can run the code, write your text and push the
 I hope you enjoy it.
 
 Screenshots of the apllication:<br/>
-Light mode:
-
-![image](https://user-images.githubusercontent.com/69539491/211394639-1f53e6b7-8eb0-4d06-b33b-88b81de231a0.png)
-
 Dark mode:
-
-![image](https://user-images.githubusercontent.com/69539491/211394610-408fbea5-325f-4642-b738-b59667b004bc.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/69539491/211394610-408fbea5-325f-4642-b738-b59667b004bc.png" width="75%">
+<p/>
+Light mode:
+<p align="center">
+<img src="https://user-images.githubusercontent.com/69539491/211394639-1f53e6b7-8eb0-4d06-b33b-88b81de231a0.png" width="75%">
+<p/>
